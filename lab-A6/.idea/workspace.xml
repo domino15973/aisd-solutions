@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7426d99e-4d7a-45d1-8e28-14cf65e6766c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A1/.idea/lab-A1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A1/.idea/lab-A1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A1/zadanie1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A1/zadanie1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A1/zadanie2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A1/zadanie2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A2/.idea/lab-A2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A2/.idea/lab-A2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A2/iteracyjny.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A2/iteracyjny.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A2/rekurencyjny.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A2/rekurencyjny.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A3/.idea/lab-A3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A3/.idea/lab-A3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A3/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A3/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/.idea/lab-A4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/.idea/lab-A4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/czasy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/czasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/karpa-rabina.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/karpa-rabina.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/naiwny.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/naiwny.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/patterns/patterns/1000_pattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/patterns/patterns/1000_pattern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/patterns/patterns/1000_poprawne_rozwiazanie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/patterns/patterns/1000_poprawne_rozwiazanie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/patterns/patterns/2000_pattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/patterns/patterns/2000_pattern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/patterns/patterns/3000_pattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/patterns/patterns/3000_pattern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/patterns/patterns/4000_pattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/patterns/patterns/4000_pattern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/patterns/patterns/5000_pattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/patterns/patterns/5000_pattern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A4/patterns/patterns/8000_pattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A4/patterns/patterns/8000_pattern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A5/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A5/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A5/.idea/lab-A5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A5/.idea/lab-A5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A5/zad1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A5/zad1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-A5/zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-A5/zad2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IBQKV2rycZXTEUc95Hjpj1jS8t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/domin/Documents/GitHub/aisd-solutions/lab-A6"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab-A6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7426d99e-4d7a-45d1-8e28-14cf65e6766c" name="Changes" comment="" />
+      <created>1669652432187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669652432187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
